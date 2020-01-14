@@ -10,4 +10,7 @@ public class SimpleService {
     public int getPrice(){
         return new Random().nextInt(100);
     }
+    public String getName(){
+        return "小明";
+    }
 }
