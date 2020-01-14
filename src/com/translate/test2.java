@@ -2,6 +2,6 @@ package com.translate;
 
 public class test2 {
     public static void main(String[] args) {
-        System.out.println("sss");
+        System.out.println("sssdd");
     }
 }
